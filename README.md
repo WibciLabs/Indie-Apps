@@ -1,6 +1,7 @@
 # Indie Apps
 Here you will find a curated list of mobile apps released by indie hackers building bootstrapped businesses.
-Help your fellow app developers by downloading the app, giving an app store review, or even product feedback.
+
+Help your fellow app developers by downloading the app, **giving an app store review**, or even product feedback.
 
 ## Remotime: Freelancer Invoicing
 Simply manage your tasks, time and invoices
