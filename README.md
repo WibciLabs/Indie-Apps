@@ -6,7 +6,7 @@ You can help them by downloading the app, **giving an app store review**, or eve
 
 Want to add your app here? 
 - fork this repo
-- copy the template.md file to the Apps folder
+- copy the template.md file to the Apps folder, and rename it as [YourAppName].md
 - fill out your detail
 - submit a PR
 
