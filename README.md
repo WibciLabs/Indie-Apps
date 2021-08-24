@@ -15,3 +15,8 @@ Simply manage your tasks, time and invoices - [detail](https://github.com/WibciL
 
 ![intro](https://play-lh.googleusercontent.com/mZ70g2UqIiXYwZLHzkpE-ZLiKB2a7-ObcCowPYMSU_RbreTbTBk_rrnt9ctl-Tj9NII=w720-h310-rw) 
 
+## Catch Logger
+Gone Fishing? Track all your fish catches - [detail](https://github.com/WibciLabs/Indie-Apps/blob/main/Apps/CatchLogger.md)
+
+![intro](https://play-lh.googleusercontent.com/7yPLTq9tpfgWz-rhlahuCU_kD5dSin-HQcCZouyr_ZmsF6K3AJYOYLeZjr5OjgvD1l0=w720-h310-rw) 
+
