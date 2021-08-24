@@ -5,5 +5,5 @@ Here you will find a curated list of mobile apps released by indie hackers build
 You can help them by downloading the app, **giving an app store review**, or even product feedback.
 
 ## Remotime: Freelancer Invoicing
-Simply manage your tasks, time and invoices - [detail](Apps/remotime.md)
+Simply manage your tasks, time and invoices - [detail](https://github.com/WibciLabs/Indie-Apps/blob/main/Apps/Remotime.md)
 
