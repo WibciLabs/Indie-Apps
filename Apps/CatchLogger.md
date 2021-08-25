@@ -1,4 +1,4 @@
-# Remotime: Freelancer Invoicing
+# Catch Logger
 Gone Fishing? Track all your fish catches
 
 ### Links
